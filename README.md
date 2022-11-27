@@ -10,4 +10,5 @@ This is the source code for Horiseon Social Solution Service's website. It was b
 
 ## Published Website
 
-Website not yet published.
+https://dhoneck.github.io/horiseon/
+
